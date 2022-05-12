@@ -15,7 +15,6 @@ yarn start
 - react
 - redux (hooks)
 
-### 🛑 Публикация проекта:
+### Публикация проекта:
 
 > Login: `user`
-# job-listings-with-filtering
