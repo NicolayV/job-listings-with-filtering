@@ -17,4 +17,6 @@ yarn start
 
 ### Публикация проекта:
 
-> Login: `user`
+> `https://job-listings-with-filtering-nine.vercel.app/`
+
+> [Vercel deploy](https://job-listings-with-filtering-nine.vercel.app/)
